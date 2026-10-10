@@ -1,55 +1,34 @@
-# Account Deletion Request - Make a Wish
+# Delete Your Make a Wish Account
 
-## How to Request Account Deletion
+**Last updated:** October 10, 2026
 
-If you wish to delete your Make a Wish account and all associated data, please follow these steps:
+Make a Wish Studio lets you delete your account and associated App data directly inside **Make a Wish**.
 
-### Option 1: Email Request
-Send an email to **makeawishgame@gmail.com** with:
-- **Subject:** Account Deletion Request
-- **Body:** Include the email address associated with your Google Sign-In
+## Delete inside the App
 
-We will process your request within **30 days**.
+1. Sign in to the account you want to delete.
+2. Open **Profile**.
+3. Open **Settings**.
+4. Tap **Delete account**.
+5. Confirm the warning and complete Google re-authentication if requested.
 
----
+When the operation succeeds, the App deletes the Firebase Authentication account and associated App records, including profile data, authored public and private wishes, likes, blocked authors, submitted reports, purchase-delivery records, and moderation notices.
 
-### Option 2: In-App (Coming Soon)
-Account deletion from within the app will be available in a future update.
+## Request deletion without App access
 
----
+If you cannot access the App, email **makeawishgame@gmail.com** from the Google email connected to your Make a Wish account.
 
-## What Data Will Be Deleted
+- Subject: **Make a Wish account deletion**
+- Include: your current nickname and a short statement requesting account deletion.
+- Do not include: your password, Google password, full payment-card number, or other financial credentials.
 
-When you request account deletion, the following data will be **permanently removed**:
+We may request reasonable verification to prevent unauthorized deletion. We aim to complete a verified request within 30 days unless a longer period is required or permitted by law.
 
-| Data Type | Will Be Deleted |
-|-----------|-----------------|
-| Email address | ✅ Yes |
-| Display name | ✅ Yes |
-| Profile photo URL | ✅ Yes |
-| Private wishes | ✅ Yes |
-| Public wishes | ✅ Yes |
-| Comments | ✅ Yes |
-| Likes | ✅ Yes |
-| Coin balance | ✅ Yes |
-| Custom nickname | ✅ Yes |
+## What may be retained
 
----
+Limited information may be retained where reasonably necessary for purchase accounting, fraud and abuse prevention, security, dispute resolution, or compliance with law. Google Play keeps transaction records independently under Google's policies. Residual copies may remain temporarily in backups until normal deletion cycles complete. Retained information will not be used for unrelated purposes.
 
-## Data Retention
+Uninstalling the App does not delete your account. Account deletion is permanent and cannot normally be undone.
 
-- All data will be deleted within **30 days** of your request
-- No backup copies will be retained after deletion
-- Deletion is **permanent and irreversible**
-
----
-
-## Contact
-
-**Developer:** Make a Wish Studio  
-**Email:** makeawishgame@gmail.com  
-**Country:** Ukraine
-
----
-
-© 2024 Make a Wish Studio. All rights reserved.
+**Developer:** Make a Wish Studio, Ukraine  
+**Contact:** makeawishgame@gmail.com
